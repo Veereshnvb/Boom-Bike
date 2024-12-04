@@ -6,7 +6,7 @@
 
 ## General Information
 - This project focuses on exploring and analyzing the factors affecting bike rentals using the Boom Bike dataset (`day.csv`).
-- Key steps include data preprocessing, visualization, and drawing actionable insights.
+- Key steps include data preprocessing, visualization, and building Linear Reagression Model.
 - The primary goal is to uncover patterns and correlations that can inform better decision-making for optimizing bike rentals.
 
 ## Technologies Used
